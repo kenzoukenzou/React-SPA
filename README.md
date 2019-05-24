@@ -1,2 +1,5 @@
 - Reference: [Udemy](https://www.udemy.com/react-front-to-back)
 - Output: [Contact Manager](https://kenzoukenzou.github.io/React-SPA/#/)
+  - React.js
+  - Context API
+  - [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
